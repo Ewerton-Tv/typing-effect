@@ -1,6 +1,6 @@
 # Efeito de digitacao
 
-<img alt="imagem do progeto" src="./img/print.jpg"  height="360" style="margin-right: 250px"/>
+<img alt="imagem do progeto" src="./img/print.png"  height="360" style="margin-right: 250px"/>
 
 ---
 

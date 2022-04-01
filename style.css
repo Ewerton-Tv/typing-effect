@@ -34,6 +34,7 @@ body {
 }
 
 .botao {
+  text-align: center;
   font-family: "Pixel", sans-serif;
   font-size: 1em;
   width: 8em;
@@ -41,7 +42,6 @@ body {
   margin-top: 16px;
   background-color: #8400a8;
   border: outset #431668;
-  border-radius: 4;
 }
 
 .botao:active {
@@ -83,7 +83,6 @@ body {
     font-size: 1.5rem;
   }
   .botao {
-    font-size: 1em;
     margin-top: 0.2em;
   }
 }
